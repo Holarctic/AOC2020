@@ -2,4 +2,4 @@
 
 My solutions to [AOC](adventofcode.com) challenges 
 
-They be bad half the time :(
+They be bad h̶a̶l̶f̶ all the time :(
