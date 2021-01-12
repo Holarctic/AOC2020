@@ -1,5 +1,7 @@
+import downloadInput as aoc
 input=[]
-for line in open("day8/input.txt", "r").readlines():
+file = "day%d/input.txt" % aoc.day
+for line in open(file, "r").readlines():
   cmd, val = tuple(line.split(" "))
   input.append([cmd, int(val)])
 
